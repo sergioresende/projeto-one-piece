@@ -47,7 +47,8 @@
     }
 
     .conteudo {
-        top: -30px;
+        top: 0px;
+        max-height: 80vh;
     }
 
     .conteudo .nome-personagem {
